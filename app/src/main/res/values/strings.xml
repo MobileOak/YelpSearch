@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Yelp Search</string>
+    <string name="enter_location">Enter location:</string>
+    <string name="enter_subject">Enter subject:</string>
+    <string name="search">Search</string>
+    <string name="item_image">Business Image</string>
+    <string name="loading_data">Loading data...</string>
+</resources>
